@@ -2,8 +2,6 @@
 
 
 # 💫 About Me:
-## 🚀 Backend Developer
-🛠️specialized in building robust REST APIs using Node.js, Express.js.<br><br>
 📫 How to reach me t_barkat@estin.dz
 
 
