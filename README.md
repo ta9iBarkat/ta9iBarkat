@@ -2,7 +2,7 @@
 
 
 #  About Me:
-Web Security | Backend
+**Web Security | Backend**
 Break. Analyze. Secure.
 
 📫 How to reach me t_barkat@estin.dz
