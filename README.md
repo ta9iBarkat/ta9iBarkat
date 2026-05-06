@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 
-# 💫 About Me:
+#  About Me:
+Web Security | Backend
+Break. Analyze. Secure.
+
 📫 How to reach me t_barkat@estin.dz
 
 
